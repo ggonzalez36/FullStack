@@ -1,5 +1,7 @@
 FullStack project with sqllite, Angular 10 and Python 3.8
 
+-run python -m ven env
+
 # Run back end
 - go to env/ scripts run activate
 - got to backend directory
