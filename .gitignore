@@ -1,0 +1,4 @@
+
+# Local databases
+*.sqlite3
+.env
